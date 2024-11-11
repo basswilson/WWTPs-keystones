@@ -1,6 +1,6 @@
 # OVERVIEW
 
-A deep learning framework to identify the keystone taxa in WWTPs. 
+A deep learning framework to identify the keystone taxa in WWTPs~1~. 
 
 We have tested this code for Python 3.8.13 and R 4.4.1. (2024-06-14 ucrt)
 
@@ -129,3 +129,7 @@ Each row represent the keystonenes of a species in a particular sample.
 ### Step 3: Statistical analysis and plotting
 
 Run the other R codes to analysis.
+
+
+### Reference
+[1] Wang, X.-W.; Sun, Z.; Jia, H.; Michel-Mata, S.; Angulo, M. T.; Dai, L.; He, X.; Weiss, S. T.; Liu, Y.-Y. Identifying Keystone Species in Microbial Communities Using Deep Learning. Nat Ecol Evol 2023. https://doi.org/10.1038/s41559-023-02250-2.
