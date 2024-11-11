@@ -1,6 +1,6 @@
 # OVERVIEW
 
-A deep learning framework to identify the keystone taxa in WWTPs ^2^. 
+A deep learning framework to identify the keystone taxa in WWTPs. 
 
 We have tested this code for Python 3.8.13 and R 4.4.1. (2024-06-14 ucrt)
 
